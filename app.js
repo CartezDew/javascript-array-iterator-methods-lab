@@ -353,5 +353,5 @@ let idx = comments.findIndex((comment) => {
 // Complete the exercise in the space below:
 
 // Check your work:
-console.log('Exercise 9 my result: ', idx);
+console.log('Exercise 9: ', idx);
 console.log('Exercise 9 correct result: ', 3);
